@@ -1,1 +1,1 @@
-In this repository -----------> there are project I practice in data in kaggle
+In this repository -----------> there are projects that I practice on data in kaggle
